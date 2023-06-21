@@ -8,7 +8,7 @@ I used to work in the construction industry for two years before I a made a care
 
 * 🌍  I'm based in Los Angeles
 * ✉️  You can contact me at [jeffalexv@gmail.com](mailto:jeffalexv@gmail.com)
-* 🧠  I'm learning Next.js framework
+* 🧠  Currently working on an e-commerce website.
 
 ### Skills
 
