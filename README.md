@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Engineer
 ----------------------------
 
-I used to work in the construction industry for two years before I a made a career change to become a software engineer. During the summer I decided to take a coding bootcamp where I am now pursuing a career in software engineering.
+I'm Jeffrey Villacorta, a Software Engineer in Los Angeles. With a background in construction management, I specialize in JavaScript, React, Node.js, and more, creating engaging user interfaces.  As a former Project Engineer at Swinerton Builders, I managed multimillion-dollar projects and optimized construction efficiency. I hold a Software Engineering certificate from General Assembly and a Bachelor's in Mathematics with a Computational Concentration from UC Santa Cruz. Explore my work on GitHub and connect on LinkedIn for collaboration opportunities.
 
 * 🌍  I'm based in Los Angeles
 * ✉️  You can contact me at [jeffalexv@gmail.com](mailto:jeffalexv@gmail.com)
-* 🧠  Currently working on an e-commerce website.
+* 🧠  Currently working on a Freelance project.
 
 ### Skills
 
